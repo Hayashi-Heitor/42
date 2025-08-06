@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    2_cenariodois.txt                                  :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: hhayashi <hhayashi@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/07/08 14:09:45 by hhayashi          #+#    #+#              #
+#    Updated: 2025/07/08 14:11:16 by hhayashi         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+--Gestão de Tempo de Avaliação--
+Claro que eu iria acelerar a avaliação com coisas não relacionadas com a régua, evitar conversas paralelas e pausas muito longas entre exercícos,
+entretanto deixaria claro que não posso aprovar um projeto sem verificar todos os ítens da régua.

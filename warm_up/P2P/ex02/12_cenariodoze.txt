@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    12_cenariodoze.txt                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: hhayashi <hhayashi@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/07/08 13:58:57 by hhayashi          #+#    #+#              #
+#    Updated: 2025/07/08 13:59:01 by hhayashi         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+[B] Se não for especificado que o projeto seja feito numa VM, você testa no SEU Workspaces.
+Se tiver algum problema técnico, pede para fazer a avaliação em outro momento ou pede
+para que a avaliada clone o repositório na sua frente e teste no Workspaces dela.

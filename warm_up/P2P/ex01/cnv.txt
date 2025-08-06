@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    cnv.txt                                            :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: hhayashi <hhayashi@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/07/08 13:43:10 by hhayashi          #+#    #+#              #
+#    Updated: 2025/07/08 13:47:36 by hhayashi         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+O ponto inicial para entender sobre comunicação não violenta é compreender que geralmente conflitos são causados por falhas de comunicação.
+Então é de suma importância analisar a situação de cabeça fria antes de tomar alguma decisão real a respeito, jamais por impulso no momento de raiva.
+Apesar de não existir uma receita perfeita para lidar com conflitos quatro passos são um planejamento geral bem vindo:
+
+1. Entenda o problema
+2. Defina uma visão
+3. Explore alternativas
+4. Chegar num consenso
+
+E é claro SEMPRE COM EMPATIA E RESPEITO!!!

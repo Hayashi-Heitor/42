@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    1_cenarioum.txt                                    :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: hhayashi <hhayashi@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/07/08 13:49:07 by hhayashi          #+#    #+#              #
+#    Updated: 2025/07/08 14:11:24 by hhayashi         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+--Avaliadora Não Responde--
+Primeiramente aguardo por volta de 15 minutos para garantir que a pessoa não está no banheiro ou apenas ficou presa em alguma conversa ou exercício,
+após este tempo entro em contato pelo grupo ou pelos dados da intra e dependendo da situação a marco como ausente ou aguardo até o seu retorno.

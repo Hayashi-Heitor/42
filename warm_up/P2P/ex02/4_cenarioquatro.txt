@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    4_cenarioquatro.txt                                :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: hhayashi <hhayashi@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/07/08 14:14:28 by hhayashi          #+#    #+#              #
+#    Updated: 2025/07/08 14:16:07 by hhayashi         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+--Entendimento Correto da Tarefa--
+Primeiramente apresentaria o meu ponto de vista respeitosamente, se após os argumentos da pessoa ainda ela não estiver convencida da minha versão ou eu da dela,
+eu procuraria terceiros para fornecer os pontos de vista deles também, mas no final das contas a decisão final será da avaliadora.

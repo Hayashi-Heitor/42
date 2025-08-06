@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    14_cenarioquatorze.txt                             :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: hhayashi <hhayashi@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/07/08 14:00:18 by hhayashi          #+#    #+#              #
+#    Updated: 2025/07/08 14:00:59 by hhayashi         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+[B] Explica mesmo que brevemente o conceito por trás do teste e ajuda a avaliadora a
+executar os comandos, afinal é uma ótima oportunidade para que ela comece a se famil-
+iarizar com o que virá pela frente.

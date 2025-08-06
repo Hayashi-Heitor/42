@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    10_cenariodez.txt                                  :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: hhayashi <hhayashi@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/07/08 13:56:49 by hhayashi          #+#    #+#              #
+#    Updated: 2025/07/08 13:56:57 by hhayashi         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+[D] Pede para verificarem juntos o documento da Norma e identifica o item que explica
+sobre o idioma obrigatório das variávels. Aceita e decisão e corrige seu código para uma
+próxima entrega.
