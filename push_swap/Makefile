@@ -1,23 +1,30 @@
 NAME = push_swap
-LIBFT = libft/libft.a
+LIBFT_DIR = ../libft
+LIBFT = $(LIBFT_DIR)/libft.a
 
-SRC = src/main.c
+SRC = src/main.c src/parser.c src/utils/ft_isunique.c src/utils/ft_isnumber.c
 OBJ = $(SRC:.c=.o)
 
 CC = cc
-CFLAGS = -Wall -Wextra -Werror -Iinclude -Ilibft
+CFLAGS = -Wall -Wextra -Werror -Iinclude -I$(LIBFT_DIR)
 
-all: $(NAME)
+all: $(LIBFT) $(NAME)
+
+$(LIBFT):
+	make -C $(LIBFT_DIR)
 
 $(NAME): $(OBJ)
-	$(CC) $(CFLAGS) $(OBJ) -o $(NAME)
+	$(CC) $(CFLAGS) $(OBJ) $(LIBFT) -o $(NAME)
+
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-	make -C libft clean
+	make -C $(LIBFT_DIR) clean
 	rm -f $(OBJ)
 
 fclean: clean
-	make -C libft fclean
+	make -C $(LIBFT_DIR) fclean
 	rm -f $(NAME)
 
 re: fclean all

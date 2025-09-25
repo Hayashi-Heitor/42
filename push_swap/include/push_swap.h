@@ -1,3 +1,5 @@
+#include "../libft/libft.h"
+
 typedef struct s_node
 {
 	int             value;
@@ -11,3 +13,6 @@ typedef struct s_stack
 	int     size;
 }   t_stack;
 
+int	parse_args(int argc, char **argv, t_stack *a);
+int	ft_isunique(t_stack *stack, int value);
+int ft_isnumber(const char *str);
