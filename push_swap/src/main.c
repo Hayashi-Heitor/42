@@ -43,6 +43,17 @@ int	main(int argc, char **argv)
 		return (1);
 	}
 	
+	if (a.size == 2)
+		sort_two(&a);
+	else if (a.size == 3)
+		sort_three(&a);
+	else if (a.size == 4)
+		sort_four(&a, &b);
+	else if (a.size == 5)
+		sort_five(&a, &b);
+	else
+		radix_sort(&a, &b);
+
 	clear_stack(&a);
 	clear_stack(&b);
 	return (0);
