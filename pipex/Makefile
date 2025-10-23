@@ -2,13 +2,13 @@ NAME = pipex
 CC = cc
 CFLAGS = -Wall -Wextra -Werror -Iinclude -Ilibft/include
 
-SRC = src/main.c
+SRC = src/main.c src/exec_cmd.c src/utils.c src/find_cmd_path.c																				
 OBJ = $(SRC:.c=.o)
 
 all: libft $(NAME)
 
 libft:
-	$(MAKE) -C libft
+	$(MAKE) -C libft																
 
 $(NAME): $(OBJ)
 	$(CC) $(CFLAGS) $(OBJ) libft/libft.a -o $(NAME)
