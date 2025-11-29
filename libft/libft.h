@@ -6,7 +6,7 @@
 /*   By: hhayashi <hhayashi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/10 17:03:15 by hhayashi          #+#    #+#             */
-/*   Updated: 2025/07/24 21:35:12 by hhayashi         ###   ########.fr       */
+/*   Updated: 2025/11/15 20:24:59 by hhayashi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -50,5 +50,7 @@ void	ft_putstr_fd(char *s, int fd);
 void	ft_putendl_fd(char *s, int fd);
 void	ft_striteri(char *s, void (*f)(unsigned int, char*));
 void	ft_putnbr_fd(int n, int fd);
+void	ft_free_split(char **split);
+long	ft_atol(const char *ptr);
 
 #endif
